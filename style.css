@@ -221,7 +221,7 @@ i{
 	justify-content: flex-end;
 }
 
-/* article queries */
+/* footer queries */
 @media (max-width: 900px){
 	footer section{
 		flex-direction: column;
